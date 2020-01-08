@@ -3,9 +3,16 @@
 # New advances in brain-inspired perception, interaction and learning
 ### Full-day workshop at IEEE International Conference on Robotics and Automation (ICRA 2020)
 
-date_ May 31, 2020. Paris, France.
+### Important dates (tentative)
+_Workshop day__ May 31, 2020. Paris, France
 
-web_ http://brain-pil.github.io/icra2020 
+_Submission deadline__ 1 March, 2020
+
+_Notification of acceptance__ 15 March, 2020
+
+_Camera-ready deadline__ 15 April, 2020
+
+_web__ http://brain-pil.github.io/icra2020 
 
 ## Description
 More than thirty years after Moravec described one of the fundamental paradoxes of intelligence, robots still perform poorly in unconstrained or unknown environments. They have limited perception, control, and reasoning capabilities, and are not yet able to carry out natural interactions with humans. Is low level perception and mobility still the challenge?
@@ -37,9 +44,8 @@ This workshop aims to bring forward current challenges in robotics and autonomou
 - **Pablo Lanillos**. Assistant Professor at Donders Institute for Brain, Cognition and Behaviour. The Netherlands, [web](www.selfception.eu)
 
 ## Topics:
-```markdown
 This workshop is intended for roboticist and neuroscientist working in the areas of brain-inspired robotics, neurorobotics, machine learning, perception in navigation and mobility, cognitive systems and human-robot interaction. The topics of interest include, but are not limited to:
-
+```markdown
 - Brain-like perception (tactile, vision, etc) and information fusion
 - Brain-like Interaction and learning
 - Brain-inspired navigation and mobility

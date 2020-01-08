@@ -1,4 +1,4 @@
-![Image]()
+<img src="{{site.url}}/images/banner_icra2020_WS.jpg" style="display: block; margin: auto;" />
 
 # New advances in brain-inspired perception, interaction and learning
 ### Full-day workshop at IEEE International Conference on Robotics and Automation (ICRA 2020)

@@ -4,11 +4,15 @@
 ### Full-day workshop at IEEE International Conference on Robotics and Automation (ICRA 2020)
 
 ### Important dates (tentative)
-_Workshop day_ May 31, 2020. Paris, France
-_Submission deadline_ 1 March, 2020
-_Notification of acceptance_ 15 March, 2020
-_Camera-ready deadline_ 15 April, 2020
-_web_ http://brain-pil.github.io/icra2020 
+_Workshop day_> May 31, 2020. Paris, France
+
+_Submission deadline_> 1 March, 2020
+
+_Notification of acceptance_> 15 March, 2020
+
+_Camera-ready deadline_> 15 April, 2020
+
+_web_> http://brain-pil.github.io/icra2020 
 
 ## Description
 More than thirty years after Moravec described one of the fundamental paradoxes of intelligence, robots still perform poorly in unconstrained or unknown environments. They have limited perception, control, and reasoning capabilities, and are not yet able to carry out natural interactions with humans. Is low level perception and mobility still the challenge?

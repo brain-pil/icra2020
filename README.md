@@ -1,6 +1,20 @@
-## Welcome to GitHub Pages
+![Image]()
 
-Hallo worldy
+# New advances in brain-inspired perception, interaction and learning
+### Full-day workshop at IEEE International Conference on Robotics and Automation (ICRA 2020)
+date_ May 31, 2020. Paris, France.
+web_ http://brain-pil.github.io/icra2020 
+
+## Organizers
+- **Mohsen Kaboli**. Senior Research Scientist, BMW Research, AI, Robotics, and Cognitive Systems Center of Excellence,  BMW Group 85748, Munich, Germany. [web](https://scholar.google.com/citations?user=SXv_8m4AAAAJ&hl=en)
+- **Tansu Celikel**. Professor. Donders Institute for Brain, Cognition and Behaviour, Heyendaalseweg 135, 6525 HJ Nijmegen - The Netherlands [web](https://www.ru.nl/neurophysiology/)
+- **Natalia Díaz-Rodríguez**. Assistant Professor. U2IS - ENSTA, Institute Polytechnique Paris 828,  des Maréchaux 91762 PALAISEAU CEDEX France, [web](https://nataliadiaz.github.io/ https://flowers.inria.fr/ http://asr.ensta-paris.fr/)
+- **David Filliat**, Professor. U2IS - ENSTA, Institute Polytechnique Paris 828, des Maréchaux 91762 PALAISEAU CEDEX France
+[web](http://perso.ensta-paristech.fr/~filliat/fr/ https://flowers.inria.fr/)
+- **Pablo Lanillos**. Assistant Professor at Donders Institute for Brain, Cognition and Behaviour. The Netherlands, [web](www.selfception.eu)
+
+
+
 
 You can use the [editor on GitHub](https://github.com/brain-pil/icra2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

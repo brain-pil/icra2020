@@ -5,13 +5,9 @@
 
 ### Important dates (tentative)
 _Workshop day_> May 31, 2020. Paris, France
-
 _Submission deadline_> 1 March, 2020
-
 _Notification of acceptance_> 15 March, 2020
-
 _Camera-ready deadline_> 15 April, 2020
-
 _web_> http://brain-pil.github.io/icra2020 
 
 ## Description

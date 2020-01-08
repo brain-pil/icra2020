@@ -2,52 +2,54 @@
 
 # New advances in brain-inspired perception, interaction and learning
 ### Full-day workshop at IEEE International Conference on Robotics and Automation (ICRA 2020)
+
 date_ May 31, 2020. Paris, France.
+
 web_ http://brain-pil.github.io/icra2020 
+
+## Description
+More than thirty years after Moravec described one of the fundamental paradoxes of intelligence, robots still perform poorly in unconstrained or unknown environments. They have limited perception, control, and reasoning capabilities, and are not yet able to carry out natural interactions with humans. Is low level perception and mobility still the challenge?
+
+Brain-inspired robotics, an interdisciplinary area that brings together researchers from  fields, such as robotics, cognitive science, neuroscientist, mechatronics, offers a unique promise to develop novel AI algorithms and advances the state-of-the-art in robotic perception, learning, and control. The symbiosis between these communities has already a significant place in the AI history; for example Temporal Reinforcement Learning, borrowed from operant conditioning, was the seed for the most advanced Deep-RL algorithms, which outperform humans in most challenging games invented to this date. 500 million years of brain evolution is thus a recipe book for developing engineering solutions in robotics for perception, interaction, and learning. There is only one obstacle; It is written in an unknown language. 
+
+This workshop aims to bring forward current challenges in robotics and autonomous systems that can be solved using brain-inspired approaches and to share useful findings from neuroscience that can revolutionize AI and Robotics.
+
+## Keynote Speakers
+```markdown
+- **Matthew Botvinick**. DeepMind / UCL – UK (Confirmed)
+- **Aude Billard**. Ecole Publique Fédérale de Lausanne – Switzerland (Confirmed)
+- **Fumiya Iida**. Cambridge University – UK  (Confirmed)
+- **Joni Dambre**. Ghent University – Belgium (Confirmed)
+- **Auke Ijspeert**. Ecole Publique Fédérale de Lausanne – Switzerland (Confirmed)
+- **Jun Tani**. Okinawa Institute of Science and Technology – Japan (Confirmed)
+- **Mehdi Khamassi**. Sorbonne Université – France (Confirmed)
+- **Manuel Lopes**. Instituto Superior Tecnico, INESC-ID - Lisboa (Confirmed)
+- **Hans-Jörg Vögel**. BMW Research – Germany (Confirmed)
+```
+
 
 ## Organizers
 - **Mohsen Kaboli**. Senior Research Scientist, BMW Research, AI, Robotics, and Cognitive Systems Center of Excellence,  BMW Group 85748, Munich, Germany. [web](https://scholar.google.com/citations?user=SXv_8m4AAAAJ&hl=en)
 - **Tansu Celikel**. Professor. Donders Institute for Brain, Cognition and Behaviour, Heyendaalseweg 135, 6525 HJ Nijmegen - The Netherlands [web](https://www.ru.nl/neurophysiology/)
-- **Natalia Díaz-Rodríguez**. Assistant Professor. U2IS - ENSTA, Institute Polytechnique Paris 828,  des Maréchaux 91762 PALAISEAU CEDEX France, [web](https://nataliadiaz.github.io/ https://flowers.inria.fr/ http://asr.ensta-paris.fr/)
+- **Natalia Díaz-Rodríguez**. Assistant Professor. U2IS - ENSTA, Institute Polytechnique Paris 828,  des Maréchaux 91762 PALAISEAU CEDEX France. [web](https://nataliadiaz.github.io/)
 - **David Filliat**, Professor. U2IS - ENSTA, Institute Polytechnique Paris 828, des Maréchaux 91762 PALAISEAU CEDEX France
-[web](http://perso.ensta-paristech.fr/~filliat/fr/ https://flowers.inria.fr/)
+[web](http://perso.ensta-paristech.fr/~filliat/fr/)
 - **Pablo Lanillos**. Assistant Professor at Donders Institute for Brain, Cognition and Behaviour. The Netherlands, [web](www.selfception.eu)
 
-
-
-
-You can use the [editor on GitHub](https://github.com/brain-pil/icra2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## Topics:
 ```markdown
-Syntax highlighted code block
+This workshop is intended for roboticist and neuroscientist working in the areas of brain-inspired robotics, neurorobotics, machine learning, perception in navigation and mobility, cognitive systems and human-robot interaction. The topics of interest include, but are not limited to:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Brain-like perception (tactile, vision, etc) and information fusion
+- Brain-like Interaction and learning
+- Brain-inspired navigation and mobility
+- Brain-inspired ML for robotics (Temporal RL, Deep-RL, Neural Networks)
+- Brain-Inspired Cognitive Architectures
+- Neuroscientific-inspired AI (Predictive coding)
+- Intrinsic body intelligence and adaptation
+- Decision making in neuro-robotics systems
+- Skill and Knowledge transfer system for multiple neuro-robotic systems
+- Brain-inspired Transfer Learning
+- Brain-inspired control robotic system
+- Brain-inspired planning, navigation, and mobility
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brain-pil/icra2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

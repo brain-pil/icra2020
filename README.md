@@ -5,7 +5,7 @@
 
 ### Important dates (tentative)
 _Workshop day_> May 31, 2020. Paris, France<br />
-_Submission deadline_> 1 March, 2020<br />
+_Submission deadline_> 1 March, 2020 > https://easychair.org/ <br /> 
 _Notification of acceptance_> 15 March, 2020<br />
 _Camera-ready deadline_> 15 April, 2020<br />
 _web_> http://brain-pil.github.io/icra2020<br />

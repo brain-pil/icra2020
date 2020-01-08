@@ -4,7 +4,7 @@
 ### Full-day workshop at IEEE International Conference on Robotics and Automation (ICRA 2020)
 
 ### Important dates (tentative)
-_Workshop day_> May 31, 2020. Paris, France
+_Workshop day_> May 31, 2020. Paris, France\\
 _Submission deadline_> 1 March, 2020
 _Notification of acceptance_> 15 March, 2020
 _Camera-ready deadline_> 15 April, 2020

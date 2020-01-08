@@ -1,4 +1,4 @@
-<img src="https://github.com/brain-pil/icra2020/images/banner_icra2020_WS.jpg" style="display: block; margin: auto;" />
+<img src="https://brain-pil.github.io/icra2020/images/banner_icra2020_WS.jpg" style="display: block; margin: auto;" />
 
 
 # New advances in brain-inspired perception, interaction and learning

@@ -2,7 +2,7 @@
 
 # Brain-PIL WS
 ## New advances in brain-inspired perception, interaction and learning
-### Full-day workshop at IEEE International Conference on Robotics and Automation (ICRA 2020)
+### Full-day workshop at [IEEE International Conference on Robotics and Automation (ICRA 2020)](https://www.icra2020.org/)
 
 ### Important dates (tentative)
 _Workshop day_> May 31, 2020. Paris, France<br />

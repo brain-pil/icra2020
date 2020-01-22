@@ -14,15 +14,15 @@ This workshop aims to bring forward current challenges in robotics and autonomou
 
 ## Keynote Speakers
 
-- **Matthew Botvinick**. DeepMind / UCL – UK (Confirmed)
-- **Aude Billard**. Ecole Publique Fédérale de Lausanne – Switzerland (Confirmed)
-- **Fumiya Iida**. Cambridge University – UK  (Confirmed)
-- **Joni Dambre**. Ghent University – Belgium (Confirmed)
-- **Auke Ijspeert**. Ecole Publique Fédérale de Lausanne – Switzerland (Confirmed)
-- **Jun Tani**. Okinawa Institute of Science and Technology – Japan (Confirmed)
-- **Mehdi Khamassi**. Sorbonne Université – France (Confirmed)
-- **Manuel Lopes**. Instituto Superior Tecnico, INESC-ID - Lisboa (Confirmed)
-- **Hans-Jörg Vögel**. BMW Research – Germany (Confirmed)
+- **Matthew Botvinick**. DeepMind / UCL – UK 
+- **Aude Billard**. Ecole Publique Fédérale de Lausanne – Switzerland 
+- **Fumiya Iida**. Cambridge University – UK  
+- **Joni Dambre**. Ghent University – Belgium 
+- **Auke Ijspeert**. Ecole Publique Fédérale de Lausanne – Switzerland 
+- **Jun Tani**. Okinawa Institute of Science and Technology – Japan 
+- **Mehdi Khamassi**. Sorbonne Université – France 
+- **Manuel Lopes**. Instituto Superior Tecnico, INESC-ID - Lisboa 
+- **Hans-Jörg Vögel**. BMW Research – Germany 
 
 
 

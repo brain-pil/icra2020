@@ -30,7 +30,7 @@ This workshop aims to bring forward current challenges in robotics and autonomou
 - **Mohsen Kaboli**. Senior Research Scientist, BMW Research, AI, Robotics, and Cognitive Systems Center of Excellence,  BMW Group 85748, Munich, Germany. [web](https://scholar.google.com/citations?user=SXv_8m4AAAAJ&hl=en)
 - **Tansu Celikel**. Professor. Donders Institute for Brain, Cognition and Behaviour, Heyendaalseweg 135, 6525 HJ Nijmegen - The Netherlands [web](https://www.ru.nl/neurophysiology/)
 - **Natalia Díaz-Rodríguez**. Assistant Professor. U2IS - ENSTA, Institute Polytechnique Paris. 828, Bd des Maréchaux 91762 Palaiseau, France. [web](https://nataliadiaz.github.io/)
-- **David Filliat**, Professor. U2IS - ENSTA, Institute Polytechnique Paris 828, des Maréchaux 91762 PALAISEAU CEDEX France
+- **David Filliat**, Professor. U2IS - ENSTA, Institute Polytechnique Paris. 828, Bd des Maréchaux 91762 Palaiseau, France.
 [web](http://perso.ensta-paristech.fr/~filliat/fr/)
 - **Pablo Lanillos**. Assistant Professor at Donders Institute for Brain, Cognition and Behaviour. The Netherlands, [web](www.selfception.eu)
 
@@ -62,17 +62,19 @@ We cordially invite you to submit your contribution to the workshop "New advance
 
 Send your contribution (max 4 pages) through easychair before March 15 to:
 
-https://easychair.org/conferences/?conf=brainpil2020
+[https://easychair.org/conferences/?conf=brainpil2020](https://easychair.org/conferences/?conf=brainpil2020)
 
 You can find more details here:
 
-https://brain-pil.github.io/icra2020/
+[https://brain-pil.github.io/icra2020/](https://brain-pil.github.io/icra2020/)
 
 
 ##   Important dates 
 
 - **Workshop day** May 31, 2020. Paris, France
-- **Submission deadline:** March 15, 2020  https://easychair.org/conferences/?conf=brainpil2020
+- **Submission deadline:** March 15, 2020 
+
+[https://easychair.org/conferences/?conf=brainpil2020](https://easychair.org/conferences/?conf=brainpil2020)
 - **Notification of acceptance:** March 29, 2020
 - **Camera-ready deadline:** April 15, 2020
 

@@ -13,7 +13,7 @@ Brain-inspired robotics, an interdisciplinary area that brings together research
 This workshop aims to bring forward current challenges in robotics and autonomous systems that can be solved using brain-inspired approaches and to share useful findings from neuroscience that can revolutionize AI and Robotics.
 
 ## Keynote Speakers
-```markdown
+
 - **Matthew Botvinick**. DeepMind / UCL – UK (Confirmed)
 - **Aude Billard**. Ecole Publique Fédérale de Lausanne – Switzerland (Confirmed)
 - **Fumiya Iida**. Cambridge University – UK  (Confirmed)
@@ -23,13 +23,13 @@ This workshop aims to bring forward current challenges in robotics and autonomou
 - **Mehdi Khamassi**. Sorbonne Université – France (Confirmed)
 - **Manuel Lopes**. Instituto Superior Tecnico, INESC-ID - Lisboa (Confirmed)
 - **Hans-Jörg Vögel**. BMW Research – Germany (Confirmed)
-```
+
 
 
 ## Organizers
 - **Mohsen Kaboli**. Senior Research Scientist, BMW Research, AI, Robotics, and Cognitive Systems Center of Excellence,  BMW Group 85748, Munich, Germany. [web](https://scholar.google.com/citations?user=SXv_8m4AAAAJ&hl=en)
 - **Tansu Celikel**. Professor. Donders Institute for Brain, Cognition and Behaviour, Heyendaalseweg 135, 6525 HJ Nijmegen - The Netherlands [web](https://www.ru.nl/neurophysiology/)
-- **Natalia Díaz-Rodríguez**. Assistant Professor. U2IS - ENSTA, Institute Polytechnique Paris 828,  des Maréchaux 91762 PALAISEAU CEDEX France. [web](https://nataliadiaz.github.io/)
+- **Natalia Díaz-Rodríguez**. Assistant Professor. U2IS - ENSTA, Institute Polytechnique Paris. 828, Bd des Maréchaux 91762 Palaiseau, France. [web](https://nataliadiaz.github.io/)
 - **David Filliat**, Professor. U2IS - ENSTA, Institute Polytechnique Paris 828, des Maréchaux 91762 PALAISEAU CEDEX France
 [web](http://perso.ensta-paristech.fr/~filliat/fr/)
 - **Pablo Lanillos**. Assistant Professor at Donders Institute for Brain, Cognition and Behaviour. The Netherlands, [web](www.selfception.eu)
@@ -71,14 +71,15 @@ https://brain-pil.github.io/icra2020/
 
 ##   Important dates 
 
-**Workshop day** May 31, 2020. Paris, France
-**Submission deadline:** March 15, 2020  https://easychair.org/conferences/?conf=brainpil2020
-**Notification of acceptance:** March 29, 2020
-**Camera-ready deadline:** April 15, 2020
+- **Workshop day** May 31, 2020. Paris, France
+- **Submission deadline:** March 15, 2020  https://easychair.org/conferences/?conf=brainpil2020
+- **Notification of acceptance:** March 29, 2020
+- **Camera-ready deadline:** April 15, 2020
 
 ##  Topics 
 
 This workshop is intended for roboticist and neuroscientist working in the areas of brain-inspired robotics, neurorobotics, machine learning, perception in navigation and mobility, cognitive systems and human-robot interaction. The topics of interest include, but are not limited to:
+
 - Brain-like perception (tactile, vision, etc) and information fusion
 - Brain-like Interaction and learning
 - Brain-inspired navigation and mobility
@@ -115,11 +116,11 @@ Furthermore, a selective number of papers from the poster sessions will be invit
 
 This workshop is supported by the following IEEE-RAS Technical Committees:
 
-[Cognitive robotics] (https://www.ieee-ras.org/cognitive-robotics)
+[Cognitive robotics](https://www.ieee-ras.org/cognitive-robotics)
 
-[Neuro-robotics systems] (http://www.ieee-nrs.org/)
+[Neuro-robotics systems](http://www.ieee-nrs.org/)
 
-[Robot learning] (https://www.ieee-ras.org/robot-learning/)
+[Robot learning](https://www.ieee-ras.org/robot-learning/)
 
 Furthermore, the event is supported by iNavigate (EU Horizon 2020 RISE-Network) grant agreement no: 873178, BWM research and SELFCEPTION project (selfception.eu) EU H2020 grant agreement no. 741941.
 

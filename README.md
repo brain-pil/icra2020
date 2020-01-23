@@ -32,7 +32,7 @@ This workshop aims to bring forward current challenges in robotics and autonomou
 - **Natalia Díaz-Rodríguez**. Assistant Professor. U2IS - ENSTA, Institute Polytechnique Paris. 828, Bd des Maréchaux 91762 Palaiseau, France. [web](https://nataliadiaz.github.io/)
 - **David Filliat**, Professor. U2IS - ENSTA, Institute Polytechnique Paris. 828, Bd des Maréchaux 91762 Palaiseau, France.
 [web](http://perso.ensta-paristech.fr/~filliat/fr/)
-- **Pablo Lanillos**. Assistant Professor at Donders Institute for Brain, Cognition and Behaviour. The Netherlands, [web](www.selfception.eu)
+- **Pablo Lanillos**. Assistant Professor at Donders Institute for Brain, Cognition and Behaviour. The Netherlands, [web](http://www.selfception.eu)
 
 ## Topics:
 This workshop is intended for roboticist and neuroscientist working in the areas of brain-inspired robotics, neurorobotics, machine learning, perception in navigation and mobility, cognitive systems and human-robot interaction. The topics of interest include, but are not limited to:

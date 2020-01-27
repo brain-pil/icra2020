@@ -32,7 +32,7 @@ This workshop aims to bring forward current challenges in robotics and autonomou
 - **Natalia Díaz-Rodríguez**. Assistant Professor. U2IS - ENSTA, Institute Polytechnique Paris. 828, Bd des Maréchaux 91762 Palaiseau, France. [web](https://nataliadiaz.github.io/)
 - **David Filliat**, Professor. U2IS - ENSTA, Institute Polytechnique Paris. 828, Bd des Maréchaux 91762 Palaiseau, France.
 [web](http://perso.ensta-paristech.fr/~filliat/fr/)
-- **Pablo Lanillos**. Assistant Professor at Donders Institute for Brain, Cognition and Behaviour, Montessorilaan 3
+- **Pablo Lanillos**. Assistant Professor in Cognitive AI. Donders Institute for Brain, Cognition and Behaviour. Montessorilaan 3
 6525 HR Nijmengen, The Netherlands, [web](http://www.selfception.eu)
 
 ## Topics:

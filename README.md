@@ -18,7 +18,7 @@ This workshop aims to bring forward current challenges in robotics and autonomou
 - **Aude Billard**. Ecole Publique Fédérale de Lausanne – Switzerland 
 - **Fumiya Iida**. Cambridge University – UK  
 - **Joni Dambre**. Ghent University – Belgium 
-- **Auke Ijspeert**. Ecole Polytechnique Fédérale de Lausanne – Switzerland 
+- **Auke Ijspeert**. École Polytechnique Fédérale de Lausanne – Switzerland 
 - **Jun Tani**. Okinawa Institute of Science and Technology – Japan 
 - **Mehdi Khamassi**. Sorbonne Université – France 
 - **Manuel Lopes**. Instituto Superior Tecnico, INESC-ID - Lisboa 

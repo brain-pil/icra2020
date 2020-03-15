@@ -22,7 +22,7 @@ This workshop aims to bring forward current challenges in robotics and autonomou
 ## Keynote Speakers
 
 - **Matthew Botvinick**. DeepMind / UCL – UK 
-- **Aude Billard**. Ecole Polytechnique Fédérale de Lausanne – Switzerland 
+- **Aude Billard**. École Polytechnique Fédérale de Lausanne – Switzerland 
 - **Fumiya Iida**. Cambridge University – UK  
 - **Joni Dambre**. Ghent University – Belgium 
 - **Auke Ijspeert**. École Polytechnique Fédérale de Lausanne – Switzerland 

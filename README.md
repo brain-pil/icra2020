@@ -6,9 +6,10 @@
 
 
 - **Workshop day** May 31, 2020. Paris, France
-- **Submission deadline Extended:** <span style="color:red;">April 5</span>, 2020 [https://easychair.org/conferences/?conf=brainpil2020](https://easychair.org/conferences/?conf=brainpil2020)
+- **Submission deadline Extended:** <div class="text-purple">>April 5 </div>, 2020 [https://easychair.org/conferences/?conf=brainpil2020](https://easychair.org/conferences/?conf=brainpil2020)
 - **Notification of acceptance:** April 12, 2020
 - **Camera-ready deadline:** April 19, 2020
+
 
 ## Description
 More than thirty years after Moravec described one of the fundamental paradoxes of intelligence, robots still perform poorly in unconstrained or unknown environments. They have limited perception, control, and reasoning capabilities, and are not yet able to carry out natural interactions with humans. Is low level perception and mobility still the challenge?

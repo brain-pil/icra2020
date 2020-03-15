@@ -1,12 +1,10 @@
-{::options parse_block_html="true" /}
 <img src="https://brain-pil.github.io/icra2020/images/banner_icra2020_WS.jpg" style="display: block; margin: auto;" />
 
 # Brain-PIL WS
 ## New advances in brain-inspired perception, interaction and learning
 ### Full-day workshop May 31st in Paris at [IEEE International Conference on Robotics and Automation (ICRA 2020)](https://www.icra2020.org/)
 
->[!WARNING]
->**Corona Virus
+>[!WARNING] :warning: **Corona Virus**
 
 
 

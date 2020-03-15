@@ -4,9 +4,7 @@
 ## New advances in brain-inspired perception, interaction and learning
 ### Full-day workshop May 31st in Paris at [IEEE International Conference on Robotics and Automation (ICRA 2020)](https://www.icra2020.org/)
 
->:warning: **COVID-19 virus** 
-
-> Due to uncertain situation of Europe we are working with ICRA2020 organizers to provide a suitable solution.
+>:warning: **COVID-19 virus**: Due to uncertain situation of Europe we are working with ICRA2020 organizers to provide a suitable solution.
 
 - **Workshop day** May 31, 2020. Paris, France
 - **Submission deadline Extended:** :point_right: **April 5**, 2020 [https://easychair.org/conferences/?conf=brainpil2020](https://easychair.org/conferences/?conf=brainpil2020)

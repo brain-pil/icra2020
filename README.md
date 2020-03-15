@@ -6,10 +6,10 @@
 
 >:warning: **COVID-19 virus** 
 
-> Due to uncertain situation of Europe due to the virus, we are working with ICRA2020 organizers to provide a suitable solution.
+> Due to uncertain situation of Europe we are working with ICRA2020 organizers to provide a suitable solution.
 
 - **Workshop day** May 31, 2020. Paris, France
-- **Submission deadline Extended:** :warning: **April 5**, 2020 [https://easychair.org/conferences/?conf=brainpil2020](https://easychair.org/conferences/?conf=brainpil2020)
+- **Submission deadline Extended:** :point_right: **April 5**, 2020 [https://easychair.org/conferences/?conf=brainpil2020](https://easychair.org/conferences/?conf=brainpil2020)
 - **Notification of acceptance:** April 12, 2020
 - **Camera-ready deadline:** April 19, 2020
 

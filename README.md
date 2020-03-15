@@ -1,3 +1,4 @@
+{::options parse_block_html="true" /}
 <img src="https://brain-pil.github.io/icra2020/images/banner_icra2020_WS.jpg" style="display: block; margin: auto;" />
 
 # Brain-PIL WS
@@ -6,6 +7,17 @@
 
 ## Corona Virus
 {: .gitlab-orange}
+
+<div class="panel panel-info">
+**Note**
+{: .panel-heading}
+<div class="panel-body">
+
+NOTE DESCRIPTION
+
+</div>
+</div>
+
 
 - **Workshop day** May 31, 2020. Paris, France
 - **Submission deadline Extended:** <div class="text-purple">April 5 </div>, 2020 [https://easychair.org/conferences/?conf=brainpil2020](https://easychair.org/conferences/?conf=brainpil2020)

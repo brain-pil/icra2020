@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-architect <!--jekyll-theme-minimal-->
 url: https://brain-pil.github.io/icra2020
 plugins:
   - jemoji

@@ -8,7 +8,7 @@
 
 - **Workshop day** May 31, 2020. Paris, France
 - **Submission deadline Extended:** :point_right: **April 5**, 2020 [https://easychair.org/conferences/?conf=brainpil2020](https://easychair.org/conferences/?conf=brainpil2020)
-- **Notification of acceptance:** April 12, 2020
+- **Notification of acceptance:** ~~April 12, 2020~~ :warning: **The notification has been delayed to wait for ICRA to make a final decision regarding the celebration of the event. We would like to apologize for any inconvenience.**
 - **Camera-ready deadline:** April 19, 2020
 
 

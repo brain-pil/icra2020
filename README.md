@@ -1,15 +1,14 @@
 <img src="https://brain-pil.github.io/icra2020/images/banner_icra2020_WS.jpg" style="display: block; margin: auto;" />
 
-# Brain-PIL WS
+# Brain-PIL Workshop - virtual
 ## New advances in brain-inspired perception, interaction and learning
-### Full-day workshop May 31st in Paris at [IEEE International Conference on Robotics and Automation (ICRA 2020)](https://www.icra2020.org/)
+### Full-day workshop May 31st at the[IEEE International Conference on Robotics and Automation (ICRA 2020)](https://www.icra2020.org/)
 
 >:warning: **The WS will be virtual**: Due to the COVID situation the workshop will be online along with the ICRA2020.
 
 ## Participate
 
-Do you want to join the WS, pose questions and participate in the discussion? 
-
+Do you want to join the WS, pose questions and participate in the discussion? <br />
 Join for free (limited attendants) by :point_right: **registering [here](https://www.eventbrite.co.uk/e/brain-pil-ws-new-advances-brain-inspired-perception-interaction-learning-tickets-104625222858?ref=estw)**
 
 ## Dates

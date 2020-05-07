@@ -46,7 +46,7 @@ This workshop aims to bring forward current challenges in robotics and autonomou
 - **David Filliat**, Professor. U2IS - ENSTA, Institute Polytechnique Paris. 828, Bd des Maréchaux 91762 Palaiseau, France.
 [web](http://perso.ensta-paristech.fr/~filliat/fr/)
 - **Pablo Lanillos**. Assistant Professor in Cognitive AI. Donders Institute for Brain, Cognition and Behaviour. Montessorilaan 3
-6525 HR Nijmengen, The Netherlands, [web](http://www.selfception.eu)
+6525 HR Nijmengen, The Netherlands, [web](http://www.therobotdecision.com)
 
 ## Topics:
 This workshop is intended for roboticist and neuroscientist working in the areas of brain-inspired robotics, neurorobotics, machine learning, perception in navigation and mobility, cognitive systems and human-robot interaction. The topics of interest include, but are not limited to:

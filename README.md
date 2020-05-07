@@ -19,7 +19,6 @@ Join for free (limited attendants) by :point_right: **registering [here](https:/
 - **Notification of acceptance:** ~~April 12, 2020~~ May 2, 2020
 - **Camera-ready deadline:** ~~April 19, 2020~~ May 15, 2020
 
-
 ## Description
 More than thirty years after Moravec described one of the fundamental paradoxes of intelligence, robots still perform poorly in unconstrained or unknown environments. They have limited perception, control, and reasoning capabilities, and are not yet able to carry out natural interactions with humans. Is low level perception and mobility still the challenge?
 
@@ -28,6 +27,8 @@ Brain-inspired robotics, an interdisciplinary area that brings together research
 This workshop aims to bring forward current challenges in robotics and autonomous systems that can be solved using brain-inspired approaches and to share useful findings from neuroscience that can revolutionize AI and Robotics.
 
 ## Keynote Speakers
+
+<img src="https://brain-pil.github.io/icra2020/images/brain-pil-speakers.jpg" style="display: block; margin: auto;" />
 
 - **Matthew Botvinick**. DeepMind / UCL – UK 
 - **Aude Billard**. École Polytechnique Fédérale de Lausanne – Switzerland 
@@ -41,6 +42,8 @@ This workshop aims to bring forward current challenges in robotics and autonomou
 
 
 ## Organizers
+<img src="https://brain-pil.github.io/icra2020/images/brain-pil-organizers.jpg" style="display: block; margin: auto;" />
+
 - **Mohsen Kaboli**. Senior Research Scientist, BMW Research, AI, Robotics, and Cognitive Systems Center of Excellence,  BMW Group 85748, Munich, Germany. [web](https://scholar.google.com/citations?user=SXv_8m4AAAAJ&hl=en)
 - **Tansu Celikel**. Professor. Donders Institute for Brain, Cognition and Behaviour, Heyendaalseweg 135, 6525 HJ Nijmegen - The Netherlands [web](https://www.ru.nl/neurophysiology/)
 - **Natalia Díaz-Rodríguez**. Assistant Professor. U2IS - ENSTA, Institute Polytechnique Paris. 828, Bd des Maréchaux 91762 Palaiseau, France. [web](https://nataliadiaz.github.io/)
@@ -78,38 +81,9 @@ We cordially invite you to submit your contribution to the workshop "New advance
 
 Send your contribution (max 4 pages) through easychair before March 15 to:
 
-[https://easychair.org/conferences/?conf=brainpil2020](https://easychair.org/conferences/?conf=brainpil2020)
-
-You can find more details here:
-
-[https://brain-pil.github.io/icra2020/](https://brain-pil.github.io/icra2020/)
+~~[https://easychair.org/conferences/?conf=brainpil2020](https://easychair.org/conferences/?conf=brainpil2020)~~
 
 
-##   Important dates 
-
-- **Workshop day** May 31, 2020. Paris, France
-- **Submission deadline:** March 15, 2020 
-
-[https://easychair.org/conferences/?conf=brainpil2020](https://easychair.org/conferences/?conf=brainpil2020)
-- **Notification of acceptance:** March 29, 2020
-- **Camera-ready deadline:** April 15, 2020
-
-##  Topics 
-
-This workshop is intended for roboticist and neuroscientist working in the areas of brain-inspired robotics, neurorobotics, machine learning, perception in navigation and mobility, cognitive systems and human-robot interaction. The topics of interest include, but are not limited to:
-
-- Brain-like perception (tactile, vision, etc) and information fusion
-- Brain-like Interaction and learning
-- Brain-inspired navigation and mobility
-- Brain-inspired ML for robotics (Temporal RL, Deep-RL, Neural Networks)
-- Brain-Inspired Cognitive Architectures
-- Neuroscientific-inspired AI (Predictive coding)
-- Intrinsic body intelligence and adaptation
-- Decision making in neuro-robotics systems
-- Skill and Knowledge transfer system for multiple neuro-robotic systems
-- Brain-inspired Transfer Learning
-- Brain-inspired control robotic system
-- Brain-inspired planning, navigation, and mobility
 
 ## Call for contributions (detailed) 
 We invite participants to submit extended abstracts, short papers (max 4 pages) or 5 minutes videos of relevant work. Publications to be presented at the main conference are also welcome. The accepted contributions will be posted on the workshop website but they will not appear in the official IEEE proceedings. The reviewing is single blind and will be edited by the workshop organizers.

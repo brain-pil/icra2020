@@ -8,12 +8,13 @@
 
 ## Participate
 
-Do you want to join the WS, pose questions and participate in the discussion? Join for free (limited attendants) by **registering [here](https://www.eventbrite.co.uk/e/brain-pil-ws-new-advances-brain-inspired-perception-interaction-learning-tickets-104625222858?ref=estw)**
+Do you want to join the WS, pose questions and participate in the discussion? 
+Join for free (limited attendants) by :point_right: **registering [here](https://www.eventbrite.co.uk/e/brain-pil-ws-new-advances-brain-inspired-perception-interaction-learning-tickets-104625222858?ref=estw)**
 
 ## Dates
 
 - **Workshop day** May 31, 2020. Paris, France
-- **Submission deadline Extended:** :point_right: **April 5**, 2020 [https://easychair.org/conferences/?conf=brainpil2020](https://easychair.org/conferences/?conf=brainpil2020)
+- **Submission deadline Extended:**  ~~April 5, 2020~~ [https://easychair.org/conferences/?conf=brainpil2020](https://easychair.org/conferences/?conf=brainpil2020)
 - **Notification of acceptance:** ~~April 12, 2020~~ May 2, 2020
 - **Camera-ready deadline:** ~~April 19, 2020~~ May 15, 2020
 

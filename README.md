@@ -29,8 +29,6 @@ This workshop aims to bring forward current challenges in robotics and autonomou
 - **Jun Tani**. Okinawa Institute of Science and Technology – Japan 
 - **Mehdi Khamassi**. Sorbonne Université – France 
 - **Manuel Lopes**. Instituto Superior Tecnico, INESC-ID - Lisboa 
-- **Hans-Jörg Vögel**. BMW Research – Germany 
-
 
 
 ## Organizers

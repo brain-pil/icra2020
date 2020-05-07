@@ -14,7 +14,7 @@ Join for free (limited attendants) by :point_right: **registering [here](https:/
 
 ## Dates
 
-- **Workshop day** May 31, 2020. Paris, France
+- **Workshop day** May 31, 2020. Virtual event
 - **Submission deadline Extended:**  ~~April 5, 2020~~ [https://easychair.org/conferences/?conf=brainpil2020](https://easychair.org/conferences/?conf=brainpil2020)
 - **Notification of acceptance:** ~~April 12, 2020~~ May 2, 2020
 - **Camera-ready deadline:** ~~April 19, 2020~~ May 15, 2020

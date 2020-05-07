@@ -9,6 +9,7 @@
 ## Participate
 
 Do you want to join the WS, pose questions and participate in the discussion? 
+
 Join for free (limited attendants) by :point_right: **registering [here](https://www.eventbrite.co.uk/e/brain-pil-ws-new-advances-brain-inspired-perception-interaction-learning-tickets-104625222858?ref=estw)**
 
 ## Dates

@@ -44,12 +44,12 @@ This workshop aims to bring forward current challenges in robotics and autonomou
 <img src="https://brain-pil.github.io/icra2020/images/brain-pil-organizers.jpg" style="display: block; margin: auto;" />
 
 - **Mohsen Kaboli**. Senior Research Scientist, BMW Research, AI, Robotics, and Cognitive Systems Center of Excellence,  BMW Group 85748, Munich, Germany. [web](https://scholar.google.com/citations?user=SXv_8m4AAAAJ&hl=en)
-- **Tansu Celikel**. Professor. Donders Institute for Brain, Cognition and Behaviour, Heyendaalseweg 135, 6525 HJ Nijmegen - The Netherlands [web](https://www.ru.nl/neurophysiology/)
+- **Tansu Celikel**. Professor. Donders Institute for Brain, Cognition and Behaviour, Heyendaalseweg 135, 6525 HJ Nijmegen, the Netherlands [web](https://www.ru.nl/neurophysiology/)
 - **Natalia Díaz-Rodríguez**. Assistant Professor. U2IS - ENSTA, Institute Polytechnique Paris. 828, Bd des Maréchaux 91762 Palaiseau, France. [web](https://nataliadiaz.github.io/)
 - **David Filliat**, Professor. U2IS - ENSTA, Institute Polytechnique Paris. 828, Bd des Maréchaux 91762 Palaiseau, France.
 [web](http://perso.ensta-paristech.fr/~filliat/fr/)
 - **Pablo Lanillos**. Assistant Professor in Cognitive AI. Donders Institute for Brain, Cognition and Behaviour. Montessorilaan 3
-6525 HR Nijmengen, The Netherlands, [web](http://www.therobotdecision.com)
+6525 HR Nijmegen, the Netherlands, [web](http://www.therobotdecision.com)
 
 ## Topics:
 This workshop is intended for roboticist and neuroscientist working in the areas of brain-inspired robotics, neurorobotics, machine learning, perception in navigation and mobility, cognitive systems and human-robot interaction. The topics of interest include, but are not limited to:

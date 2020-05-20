@@ -69,727 +69,602 @@ This workshop is intended for roboticist and neuroscientist working in the areas
 
 
 ## Final Program (small changes possible)
+<div class=WordSection1>
 
-
-<table>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.5pt'>
-  <td width=66 style='width:49.5pt;border:solid windowtext 1.0pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.5pt'>
-  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'>GMT+2 (Paris)<o:p></o:p></span></b></p>
-  </td>
-  <td width=78 nowrap valign=bottom style='width:58.5pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
-  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
-  0in 5.4pt 0in 5.4pt;height:14.5pt'>
-  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'>GMT+1 (London)<o:p></o:p></span></b></p>
-  </td>
-  <td width=67 nowrap valign=bottom style='width:50.6pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
-  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
-  0in 5.4pt 0in 5.4pt;height:14.5pt'>
-  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'>GMT+9 (Tokyo)<o:p></o:p></span></b></p>
-  </td>
-  <td width=95 nowrap valign=bottom style='width:70.9pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
-  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;padding:
-  0in 5.4pt 0in 5.4pt;height:14.5pt'>
-  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'>GMT-4<o:p></o:p></span></b></p>
-  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'>(New York)<o:p></o:p></span></b></p>
-  </td>
-  <td width=684 style='width:513.0pt;border:solid windowtext 1.0pt;border-left:
-  none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
-  mso-border-right-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=0
+ style='width:742.5pt;margin-left:-.25pt;border-collapse:collapse'>
+ <tr style='height:14.5pt'>
+  <td width=66 style='width:49.5pt;border:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><b><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'>Title<o:p></o:p></span></b></p>
+  normal'><b><span style='font-family:"Arial",sans-serif;color:black'>GMT+2
+  (Paris)</span></b></p>
+  </td>
+  <td width=78 nowrap valign=bottom style='width:58.5pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:14.5pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial",sans-serif;color:black'>GMT+1
+  (London)</span></b></p>
+  </td>
+  <td width=67 nowrap valign=bottom style='width:50.6pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:14.5pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial",sans-serif;color:black'>GMT+9
+  (Tokyo)</span></b></p>
+  </td>
+  <td width=95 nowrap valign=bottom style='width:70.9pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:14.5pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial",sans-serif;color:black'>GMT-4</span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial",sans-serif;color:black'>(New
+  York)</span></b></p>
+  </td>
+  <td width=684 style='width:513.0pt;border:solid windowtext 1.0pt;border-left:
+  none;padding:0in 5.4pt 0in 5.4pt;height:14.5pt'>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial",sans-serif;color:black'>Title</span></b></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:1;height:14.5pt'>
+ <tr style='height:14.5pt'>
   <td width=66 valign=top style='width:49.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>11:00<o:p></o:p></span></b></p>
+  color:black'>11:00</span></b></p>
   </td>
   <td width=78 valign=top style='width:58.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>10:00<o:p></o:p></span></i></p>
+  color:black'>10:00</span></i></p>
   </td>
   <td width=67 valign=top style='width:50.6pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>18:00<o:p></o:p></span></i></p>
+  color:black'>18:00</span></i></p>
   </td>
   <td width=95 nowrap valign=top style='width:70.9pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>5:00<o:p></o:p></span></p>
+  color:black'>5:00</span></p>
   </td>
   <td width=684 style='width:513.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><i><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'>Welcome organizers<o:p></o:p></span></i></p>
+  normal'><i><span style='font-family:"Arial",sans-serif;color:black'>Welcome
+  organizers</span></i></p>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><i><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'>David Filliat
-  (ENSTA), Tansu Celikel (<span class=SpellE>Donders</span> Inst.),
-  Natalia<span style='mso-spacerun:yes'>  </span><span class=SpellE>Natalia</span>
-  Díaz-Rodríguez (ENSTA), Mohsen Kaboli (BMW), Pablo Lanillos (<span
-  class=SpellE>Donders</span> Inst.)<o:p></o:p></span></i></p>
+  normal'><i><span style='font-family:"Arial",sans-serif;color:black'>David
+  Filliat (ENSTA), Tansu Celikel (Donders Inst.), Natalia  Natalia
+  Díaz-Rodríguez (ENSTA), Mohsen Kaboli (BMW), Pablo Lanillos (Donders Inst.)</span></i></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:2;height:14.5pt'>
+ <tr style='height:14.5pt'>
   <td width=66 valign=top style='width:49.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>11:30<o:p></o:p></span></b></p>
+  color:black'>11:30</span></b></p>
   </td>
   <td width=78 valign=top style='width:58.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>10:30<o:p></o:p></span></i></p>
+  color:black'>10:30</span></i></p>
   </td>
   <td width=67 valign=top style='width:50.6pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>18:30<o:p></o:p></span></i></p>
+  color:black'>18:30</span></i></p>
   </td>
   <td width=95 nowrap valign=top style='width:70.9pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>5:30<o:p></o:p></span></p>
+  color:black'>5:30</span></p>
   </td>
   <td width=684 style='width:513.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>Jun Tani</span></b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>, OIST, Japan <o:p></o:p></span></p>
+  normal'><b><span style='font-family:"Arial",sans-serif;color:black'>Jun Tani</span></b><span
+  style='font-family:"Arial",sans-serif;color:black'>, OIST, Japan </span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:3;height:14.5pt'>
+ <tr style='height:14.5pt'>
   <td width=66 valign=top style='width:49.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>12:00<o:p></o:p></span></b></p>
+  color:black'>12:00</span></b></p>
   </td>
   <td width=78 valign=top style='width:58.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>11:00<o:p></o:p></span></i></p>
+  color:black'>11:00</span></i></p>
   </td>
   <td width=67 valign=top style='width:50.6pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>19:00<o:p></o:p></span></i></p>
+  color:black'>19:00</span></i></p>
   </td>
   <td width=95 nowrap valign=top style='width:70.9pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>6:00<o:p></o:p></span></p>
+  color:black'>6:00</span></p>
   </td>
   <td width=684 style='width:513.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><b style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:
-  normal'><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'>Joni Dambre</span></i></b><i
-  style='mso-bidi-font-style:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>, Ghent University, Belgium - Integrating biological insights into
-  practical AI: a pragmatic viewpoint.<o:p></o:p></span></i></p>
+  normal'><b><i><span style='font-family:"Arial",sans-serif;color:black'>Joni
+  Dambre</span></i></b><i><span style='font-family:"Arial",sans-serif;
+  color:black'>, Ghent University, Belgium - Integrating biological insights
+  into practical AI: a pragmatic viewpoint.</span></i></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:4;height:14.5pt'>
+ <tr style='height:14.5pt'>
   <td width=66 valign=top style='width:49.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>12:30<o:p></o:p></span></b></p>
+  color:black'>12:30</span></b></p>
   </td>
   <td width=78 valign=top style='width:58.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>11:30<o:p></o:p></span></i></p>
+  color:black'>11:30</span></i></p>
   </td>
   <td width=67 valign=top style='width:50.6pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>19:30<o:p></o:p></span></i></p>
+  color:black'>19:30</span></i></p>
   </td>
   <td width=95 nowrap valign=top style='width:70.9pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>6:30<o:p></o:p></span></p>
+  color:black'>6:30</span></p>
   </td>
   <td width=684 style='width:513.0pt;background:#DDEBF7;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'>Interactive + Contribution
-  1 and 2<o:p></o:p></span></p>
+  normal'><span style='font-family:"Arial",sans-serif;color:black'>Interactive
+  + Contribution 1 and 2</span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:5;height:14.5pt'>
+ <tr style='height:14.5pt'>
   <td width=66 valign=top style='width:49.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>13:00<o:p></o:p></span></b></p>
+  color:black'>13:00</span></b></p>
   </td>
   <td width=78 valign=top style='width:58.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>12:00<o:p></o:p></span></i></p>
+  color:black'>12:00</span></i></p>
   </td>
   <td width=67 valign=top style='width:50.6pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>20:00<o:p></o:p></span></i></p>
+  color:black'>20:00</span></i></p>
   </td>
   <td width=95 nowrap valign=top style='width:70.9pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>7:00<o:p></o:p></span></p>
+  color:black'>7:00</span></p>
   </td>
   <td width=684 style='width:513.0pt;background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><b style='mso-bidi-font-weight:normal'><span lang=NL
-  style='font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-  color:black;mso-ansi-language:NL;mso-fareast-language:EN-GB'>Manuel Lopes</span></b><span
-  lang=NL style='font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-  color:black;mso-ansi-language:NL;mso-fareast-language:EN-GB'>, IST, Portugal
-  - </span><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'><o:p></o:p></span></p>
+  normal'><b><span lang=NL style='font-family:"Arial",sans-serif;color:black'>Manuel
+  Lopes</span></b><span lang=NL style='font-family:"Arial",sans-serif;
+  color:black'>, IST, Portugal - </span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:6;height:14.5pt'>
+ <tr style='height:14.5pt'>
   <td width=66 valign=top style='width:49.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>13:30<o:p></o:p></span></b></p>
+  color:black'>13:30</span></b></p>
   </td>
   <td width=78 valign=top style='width:58.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>12:30<o:p></o:p></span></i></p>
+  color:black'>12:30</span></i></p>
   </td>
   <td width=67 valign=top style='width:50.6pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>20:30<o:p></o:p></span></i></p>
+  color:black'>20:30</span></i></p>
   </td>
   <td width=95 nowrap valign=top style='width:70.9pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>7:30<o:p></o:p></span></p>
+  color:black'>7:30</span></p>
   </td>
   <td width=684 style='width:513.0pt;background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>Auke Ijspeert</span></b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>, EPFL, Switzerland - <i style='mso-bidi-font-style:normal'>Controlling
-  robots' locomotion with control architectures inspired from the spinal cord
-  circuits of vertebrate animals</i><o:p></o:p></span></p>
+  normal'><b><span style='font-family:"Arial",sans-serif;color:black'>Auke
+  Ijspeert</span></b><span style='font-family:"Arial",sans-serif;color:black'>,
+  EPFL, Switzerland - <i>Controlling robots' locomotion with control
+  architectures inspired from the spinal cord circuits of vertebrate animals</i></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:7;height:14.5pt'>
+ <tr style='height:14.5pt'>
   <td width=66 valign=top style='width:49.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>14:00<o:p></o:p></span></b></p>
+  color:black'>14:00</span></b></p>
   </td>
   <td width=78 valign=top style='width:58.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>13:00<o:p></o:p></span></i></p>
+  color:black'>13:00</span></i></p>
   </td>
   <td width=67 valign=top style='width:50.6pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>21:00<o:p></o:p></span></i></p>
+  color:black'>21:00</span></i></p>
   </td>
   <td width=95 nowrap valign=top style='width:70.9pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>8:00<o:p></o:p></span></p>
+  color:black'>8:00</span></p>
   </td>
   <td width=684 style='width:513.0pt;background:#FFF2CC;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'>Interactive + Contribution
-  3 and 4<o:p></o:p></span></p>
+  normal'><span style='font-family:"Arial",sans-serif;color:black'>Interactive
+  + Contribution 3 and 4</span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:8;height:14.5pt'>
+ <tr style='height:14.5pt'>
   <td width=66 valign=top style='width:49.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>14:30<o:p></o:p></span></b></p>
+  color:black'>14:30</span></b></p>
   </td>
   <td width=78 valign=top style='width:58.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>13:30<o:p></o:p></span></i></p>
+  color:black'>13:30</span></i></p>
   </td>
   <td width=67 valign=top style='width:50.6pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>21:30<o:p></o:p></span></i></p>
+  color:black'>21:30</span></i></p>
   </td>
   <td width=95 nowrap valign=top style='width:70.9pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>8:30<o:p></o:p></span></p>
+  color:black'>8:30</span></p>
   </td>
   <td width=684 style='width:513.0pt;background:#E2EFDA;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>Mehdi Khamassi</span></b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>, </span><span style='font-family:"Arial",sans-serif'>Sorbonne Univ.,
-  France - <i style='mso-bidi-font-style:normal'>Hippocampal replay through the
-  lenses of reinforcement learning</i></span><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'><o:p></o:p></span></p>
+  normal'><b><span style='font-family:"Arial",sans-serif;color:black'>Mehdi
+  Khamassi</span></b><span style='font-family:"Arial",sans-serif;color:black'>,
+  </span><span style='font-family:"Arial",sans-serif'>Sorbonne Univ., France - <i>Hippocampal
+  replay through the lenses of reinforcement learning</i></span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:9;height:14.5pt'>
+ <tr style='height:14.5pt'>
   <td width=66 valign=top style='width:49.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>15:00<o:p></o:p></span></b></p>
+  color:black'>15:00</span></b></p>
   </td>
   <td width=78 valign=top style='width:58.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>14:00<o:p></o:p></span></i></p>
+  color:black'>14:00</span></i></p>
   </td>
   <td width=67 valign=top style='width:50.6pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>22:00<o:p></o:p></span></i></p>
+  color:black'>22:00</span></i></p>
   </td>
   <td width=95 nowrap valign=top style='width:70.9pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>9:00<o:p></o:p></span></p>
+  color:black'>9:00</span></p>
   </td>
   <td width=684 style='width:513.0pt;background:#E2EFDA;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><b style='mso-bidi-font-weight:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>Matthew Botvinick</span></b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>, DeepMind / UCL, UK<o:p></o:p></span></p>
+  normal'><b><span style='font-family:"Arial",sans-serif;color:black'>Matthew
+  Botvinick</span></b><span style='font-family:"Arial",sans-serif;color:black'>,
+  DeepMind / UCL, UK</span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:10;height:14.5pt'>
+ <tr style='height:14.5pt'>
   <td width=66 valign=top style='width:49.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>15:30<o:p></o:p></span></b></p>
+  color:black'>15:30</span></b></p>
   </td>
   <td width=78 valign=top style='width:58.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>14:30<o:p></o:p></span></i></p>
+  color:black'>14:30</span></i></p>
   </td>
   <td width=67 valign=top style='width:50.6pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>22:30<o:p></o:p></span></i></p>
+  color:black'>22:30</span></i></p>
   </td>
   <td width=95 nowrap valign=top style='width:70.9pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>9:30<o:p></o:p></span></p>
+  color:black'>9:30</span></p>
   </td>
   <td width=684 style='width:513.0pt;background:#E2EFDA;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'>Interactive + Contribution
-  5 and 6<o:p></o:p></span></p>
+  normal'><span style='font-family:"Arial",sans-serif;color:black'>Interactive
+  + Contribution 5 and 6</span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:11;height:14.5pt'>
+ <tr style='height:14.5pt'>
   <td width=66 valign=top style='width:49.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>16:00<o:p></o:p></span></b></p>
+  color:black'>16:00</span></b></p>
   </td>
   <td width=78 valign=top style='width:58.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>15:00<o:p></o:p></span></i></p>
+  color:black'>15:00</span></i></p>
   </td>
   <td width=67 valign=top style='width:50.6pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>23:00<o:p></o:p></span></i></p>
+  color:black'>23:00</span></i></p>
   </td>
   <td width=95 nowrap valign=top style='width:70.9pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>10:00<o:p></o:p></span></p>
+  color:black'>10:00</span></p>
   </td>
   <td width=684 style='width:513.0pt;background:#FCE4D6;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><b style='mso-bidi-font-weight:normal'><span lang=ES
-  style='font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-  color:black;mso-ansi-language:ES;mso-fareast-language:EN-GB'>Fumiya Iida</span></b><span
-  lang=ES style='font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-  color:black;mso-ansi-language:ES;mso-fareast-language:EN-GB'>, Cambridge
-  Univ., UK<o:p></o:p></span></p>
+  normal'><b><span lang=ES style='font-family:"Arial",sans-serif;color:black'>Fumiya
+  Iida</span></b><span lang=ES style='font-family:"Arial",sans-serif;
+  color:black'>, Cambridge Univ., UK</span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:12;height:14.5pt'>
+ <tr style='height:14.5pt'>
   <td width=66 valign=top style='width:49.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><b><span lang=ES style='font-family:
-  "Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:black;
-  mso-ansi-language:ES;mso-fareast-language:EN-GB'>16:30<o:p></o:p></span></b></p>
+  "Arial",sans-serif;color:black'>16:30</span></b></p>
   </td>
   <td width=78 valign=top style='width:58.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span lang=ES style='font-family:
-  "Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:black;
-  mso-ansi-language:ES;mso-fareast-language:EN-GB'>15:30<o:p></o:p></span></i></p>
+  "Arial",sans-serif;color:black'>15:30</span></i></p>
   </td>
   <td width=67 valign=top style='width:50.6pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span lang=ES style='font-family:
-  "Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:black;
-  mso-ansi-language:ES;mso-fareast-language:EN-GB'>23:30<o:p></o:p></span></i></p>
+  "Arial",sans-serif;color:black'>23:30</span></i></p>
   </td>
   <td width=95 nowrap valign=top style='width:70.9pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span lang=ES style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-ansi-language:ES;
-  mso-fareast-language:EN-GB'>10:30<o:p></o:p></span></p>
+  color:black'>10:30</span></p>
   </td>
   <td width=684 style='width:513.0pt;background:#FCE4D6;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><b style='mso-bidi-font-weight:normal'><span lang=NL
-  style='font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-  color:black;mso-ansi-language:NL;mso-fareast-language:EN-GB'>Ravinder Dahiya</span></b><span
-  lang=NL style='font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-  color:black;mso-ansi-language:NL;mso-fareast-language:EN-GB'>, Glasgow <span
-  class=SpellE>Univ</span>., UK<o:p></o:p></span></p>
+  normal'><b><span lang=NL style='font-family:"Arial",sans-serif;color:black'>Ravinder
+  Dahiya</span></b><span lang=NL style='font-family:"Arial",sans-serif;
+  color:black'>, Glasgow Univ., UK</span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:13;height:14.5pt'>
+ <tr style='height:14.5pt'>
   <td width=66 valign=top style='width:49.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>17:00<o:p></o:p></span></b></p>
+  color:black'>17:00</span></b></p>
   </td>
   <td width=78 valign=top style='width:58.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>16:00<o:p></o:p></span></i></p>
+  color:black'>16:00</span></i></p>
   </td>
   <td width=67 valign=top style='width:50.6pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>0:00<o:p></o:p></span></i></p>
+  color:black'>0:00</span></i></p>
   </td>
   <td width=95 nowrap valign=top style='width:70.9pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>11:30<o:p></o:p></span></p>
+  color:black'>11:30</span></p>
   </td>
   <td width=684 style='width:513.0pt;background:#FCE4D6;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'>Interactive + Contribution
-  7 and 8<o:p></o:p></span></p>
+  normal'><span style='font-family:"Arial",sans-serif;color:black'>Interactive
+  + Contribution 7 and 8</span></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:14;height:14.5pt'>
+ <tr style='height:14.5pt'>
   <td width=66 valign=top style='width:49.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>17:30<o:p></o:p></span></b></p>
+  color:black'>17:30</span></b></p>
   </td>
   <td width=78 valign=top style='width:58.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>16:30<o:p></o:p></span></i></p>
+  color:black'>16:30</span></i></p>
   </td>
   <td width=67 valign=top style='width:50.6pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>0:30<o:p></o:p></span></i></p>
+  color:black'>0:30</span></i></p>
   </td>
   <td width=95 nowrap valign=top style='width:70.9pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>12:00<o:p></o:p></span></p>
+  color:black'>12:00</span></p>
   </td>
   <td width=684 style='width:513.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><i><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'>Poster session<o:p></o:p></span></i></p>
+  normal'><i><span style='font-family:"Arial",sans-serif;color:black'>Poster
+  session</span></i></p>
   </td>
  </tr>
- <tr style='mso-yfti-irow:15;mso-yfti-lastrow:yes;height:14.5pt'>
+ <tr style='height:14.5pt'>
   <td width=66 nowrap valign=top style='width:49.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><b><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>18:00<o:p></o:p></span></b></p>
+  color:black'>18:00</span></b></p>
   </td>
   <td width=78 valign=top style='width:58.5pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>17:00<o:p></o:p></span></i></p>
+  color:black'>17:00</span></i></p>
   </td>
   <td width=67 valign=top style='width:50.6pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><i><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>1:00<o:p></o:p></span></i></p>
+  color:black'>1:00</span></i></p>
   </td>
   <td width=95 nowrap valign=top style='width:70.9pt;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal align=right style='margin-bottom:0in;margin-bottom:.0001pt;
   text-align:right;line-height:normal'><span style='font-family:"Arial",sans-serif;
-  mso-fareast-font-family:"Times New Roman";color:black;mso-fareast-language:
-  EN-GB'>12:30<o:p></o:p></span></p>
+  color:black'>12:30</span></p>
   </td>
   <td width=684 style='width:513.0pt;background:#D9D9D9;padding:0in 5.4pt 0in 5.4pt;
   height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
-  normal'><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'>Closing<o:p></o:p></span></p>
+  normal'><span style='font-family:"Arial",sans-serif;color:black'>Closing</span></p>
   </td>
  </tr>
 </table>
 
-<p class=MsoNormal><span lang=ES style='font-size:10.0pt;mso-bidi-font-size:
-11.0pt;line-height:107%;font-family:"Arial",sans-serif;mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal><span lang=ES style='font-size:10.0pt;line-height:107%;
+font-family:"Arial",sans-serif'>&nbsp;</span></p>
 
-<p class=MsoNormal style='margin-bottom:2.0pt'><b style='mso-bidi-font-weight:
-normal'><span style='font-family:"Arial",sans-serif'>Contributions<o:p></o:p></span></b></p>
+<p class=MsoNormal style='margin-bottom:2.0pt'><b><span style='font-family:
+"Arial",sans-serif'>Contributions</span></b></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-top:0in;margin-right:0in;
-margin-bottom:2.0pt;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;
-mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-family:"Arial",sans-serif;
-mso-fareast-font-family:Arial'><span style='mso-list:Ignore'>1.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-style='font-family:"Arial",sans-serif'>Alex Pitti, Mathias <span class=SpellE>Quoy</span>,
-<span class=SpellE>Sofiane</span> <span class=SpellE>Boucenna</span> and
-Catherine <span class=SpellE>Lavandier</span>. Complementary Working Memories
-using Free-Energy Optimization for Learning Features and Structure in Sequences<o:p></o:p></span></p>
+margin-bottom:2.0pt;margin-left:.25in;text-indent:-.25in'><span
+style='font-family:"Arial",sans-serif'>1.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Arial",sans-serif'>Alex Pitti, Mathias
+Quoy, Sofiane Boucenna and Catherine Lavandier. Complementary Working Memories
+using Free-Energy Optimization for Learning Features and Structure in Sequences</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
-margin-bottom:2.0pt;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;
-mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-family:"Arial",sans-serif;
-mso-fareast-font-family:Arial'><span style='mso-list:Ignore'>2.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-class=SpellE><span style='font-family:"Arial",sans-serif'>Zhenduo</span></span><span
-style='font-family:"Arial",sans-serif'> <span class=SpellE>Zhai</span> and
-Ismail <span class=SpellE>Akturk</span>. Exploiting Refractory Period for
-Functional Multiplexing and Short-Term Memory in Spiking Neural Networks<o:p></o:p></span></p>
+margin-bottom:2.0pt;margin-left:.25in;text-indent:-.25in'><span
+style='font-family:"Arial",sans-serif'>2.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Arial",sans-serif'>Zhenduo Zhai and
+Ismail Akturk. Exploiting Refractory Period for Functional Multiplexing and
+Short-Term Memory in Spiking Neural Networks</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
-margin-bottom:2.0pt;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;
-mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-family:"Arial",sans-serif;
-mso-fareast-font-family:Arial'><span style='mso-list:Ignore'>3.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-style='font-family:"Arial",sans-serif'>Mohamed <span class=SpellE>Baioumy</span>,
-<span class=SpellE>Matías</span> <span class=SpellE>Mattamala</span> and Nick
-Hawes. Variational Inference for Predictive and Reactive Controllers<o:p></o:p></span></p>
+margin-bottom:2.0pt;margin-left:.25in;text-indent:-.25in'><span
+style='font-family:"Arial",sans-serif'>3.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Arial",sans-serif'>Mohamed Baioumy,
+Matías Mattamala and Nick Hawes. Variational Inference for Predictive and
+Reactive Controllers</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
-margin-bottom:2.0pt;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;
-mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-family:"Arial",sans-serif;
-mso-fareast-font-family:Arial'><span style='mso-list:Ignore'>4.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-class=SpellE><span style='font-family:"Arial",sans-serif'>Elnaz</span></span><span
-style='font-family:"Arial",sans-serif'> <span class=SpellE>Soleimani</span>, <span
-class=SpellE>Abdelghani</span> <span class=SpellE>Chibani</span> and <span
-class=SpellE>Ghazaleh</span> <span class=SpellE>Khodabandehlou</span>. Robust
-Semi-Supervised Adversarial Subject-Level Transfer Learning for Sensor-Based
-Human Activity Recognition<o:p></o:p></span></p>
+margin-bottom:2.0pt;margin-left:.25in;text-indent:-.25in'><span
+style='font-family:"Arial",sans-serif'>4.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Arial",sans-serif'>Elnaz Soleimani,
+Abdelghani Chibani and Ghazaleh Khodabandehlou. Robust Semi-Supervised
+Adversarial Subject-Level Transfer Learning for Sensor-Based Human Activity
+Recognition</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
-margin-bottom:2.0pt;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;
-mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-family:"Arial",sans-serif;
-mso-fareast-font-family:Arial'><span style='mso-list:Ignore'>5.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-lang=ES style='font-family:"Arial",sans-serif;mso-ansi-language:ES'>Cansu
+margin-bottom:2.0pt;margin-left:.25in;text-indent:-.25in'><span
+style='font-family:"Arial",sans-serif'>5.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=ES style='font-family:"Arial",sans-serif'>Cansu
 Sancaktar, Guillermo Oliver, Pablo Lanillos. </span><span style='font-family:
-"Arial",sans-serif'>Deep Active Inference for robot body perception and action<o:p></o:p></span></p>
+"Arial",sans-serif'>Deep Active Inference for robot body perception and action</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
-margin-bottom:2.0pt;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;
-mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-family:"Arial",sans-serif;
-mso-fareast-font-family:Arial'><span style='mso-list:Ignore'>6.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-class=SpellE><span lang=ES style='font-family:"Arial",sans-serif;mso-ansi-language:
-ES'>Adrien</span></span><span lang=ES style='font-family:"Arial",sans-serif;
-mso-ansi-language:ES'> <span class=SpellE>Bennetot</span>, Vicky <span
-class=SpellE>Charisi</span> and Natalia Díaz-Rodríguez. </span><span
-style='font-family:"Arial",sans-serif'>Should artificial agents ask for help in
-human-robot collaborative problem-solving?<o:p></o:p></span></p>
+margin-bottom:2.0pt;margin-left:.25in;text-indent:-.25in'><span
+style='font-family:"Arial",sans-serif'>6.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=ES style='font-family:"Arial",sans-serif'>Adrien Bennetot,
+Vicky Charisi and Natalia Díaz-Rodríguez. </span><span style='font-family:"Arial",sans-serif'>Should
+artificial agents ask for help in human-robot collaborative problem-solving?</span></p>
 
 <p class=MsoListParagraphCxSpMiddle style='margin-top:0in;margin-right:0in;
-margin-bottom:2.0pt;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;
-mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-family:"Arial",sans-serif;
-mso-fareast-font-family:Arial'><span style='mso-list:Ignore'>7.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-class=SpellE><span style='font-family:"Arial",sans-serif'>Zhicong</span></span><span
-style='font-family:"Arial",sans-serif'> Xian and <span class=SpellE>Zhicong</span>
-Xian. Making Sense of Touch: Unsupervised <span class=SpellE>Shapelet</span>
-Learning in Bag-of-words Sense<o:p></o:p></span></p>
+margin-bottom:2.0pt;margin-left:.25in;text-indent:-.25in'><span
+style='font-family:"Arial",sans-serif'>7.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span style='font-family:"Arial",sans-serif'>Zhicong Xian and
+Zhicong Xian. Making Sense of Touch: Unsupervised Shapelet Learning in
+Bag-of-words Sense</span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-top:0in;margin-right:0in;
-margin-bottom:2.0pt;margin-left:.25in;mso-add-space:auto;text-indent:-.25in;
-mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-family:"Arial",sans-serif;
-mso-fareast-font-family:Arial'><span style='mso-list:Ignore'>8.<span
-style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
-lang=ES style='font-family:"Arial",sans-serif;mso-ansi-language:ES'>Ali <span
-class=SpellE>Alqallaf</span> and Gerardo <span class=SpellE>Aragon-Camarasa</span>.
-</span><span style='font-family:"Arial",sans-serif'>A Pilot Investigation of
-Robotic Self-Awareness<o:p></o:p></span></p>
+margin-bottom:2.0pt;margin-left:.25in;text-indent:-.25in'><span
+style='font-family:"Arial",sans-serif'>8.<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><span lang=ES style='font-family:"Arial",sans-serif'>Ali Alqallaf
+and Gerardo Aragon-Camarasa. </span><span style='font-family:"Arial",sans-serif'>A
+Pilot Investigation of Robotic Self-Awareness</span></p>
 
+<p class=MsoNormal style='margin-bottom:2.0pt'><span style='font-family:"Arial",sans-serif'>&nbsp;</span></p>
+
+</div>
 
 
 

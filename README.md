@@ -103,7 +103,10 @@ This workshop is intended for roboticist and neuroscientist working in the areas
   0in 5.4pt 0in 5.4pt;height:14.5pt'>
   <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
   normal'><b><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
-  "Times New Roman";color:black;mso-fareast-language:EN-GB'>GMT-4 (New York)<o:p></o:p></span></b></p>
+  "Times New Roman";color:black;mso-fareast-language:EN-GB'>GMT-4<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;line-height:
+  normal'><b><span style='font-family:"Arial",sans-serif;mso-fareast-font-family:
+  "Times New Roman";color:black;mso-fareast-language:EN-GB'>(New York)<o:p></o:p></span></b></p>
   </td>
   <td width=684 style='width:513.0pt;border:solid windowtext 1.0pt;border-left:
   none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid windowtext .5pt;
@@ -701,42 +704,8 @@ This workshop is intended for roboticist and neuroscientist working in the areas
  </tr>
 </table>
 
-<p class=MsoNormal><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
- o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
- stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_s1026" type="#_x0000_t75"
- style='position:absolute;margin-left:672.05pt;margin-top:-324.8pt;width:62.85pt;
- height:49.65pt;z-index:251659264;visibility:visible;mso-wrap-style:square;
- mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;
- mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;
- mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;
- mso-position-horizontal-relative:text;mso-position-vertical:absolute;
- mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;
- mso-width-relative:page;mso-height-relative:page'>
- <v:imagedata src="organization_files/image001.jpg" o:title="logo_brain-pil_icra2020_small"/>
-</v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout;position:
-relative;z-index:251659264'><span style='position:absolute;left:1354px;
-top:-441px;width:126px;height:99px'><img width=84 height=66
-src="organization_files/image002.jpg" v:shapes="Picture_x0020_1"></span></span><![endif]><span
-lang=ES style='font-size:10.0pt;mso-bidi-font-size:11.0pt;line-height:107%;
-font-family:"Arial",sans-serif;mso-ansi-language:ES'><o:p></o:p></span></p>
+<p class=MsoNormal><span lang=ES style='font-size:10.0pt;mso-bidi-font-size:
+11.0pt;line-height:107%;font-family:"Arial",sans-serif;mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:2.0pt'><b style='mso-bidi-font-weight:
 normal'><span style='font-family:"Arial",sans-serif'>Contributions<o:p></o:p></span></b></p>

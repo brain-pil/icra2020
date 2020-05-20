@@ -69,6 +69,9 @@ This workshop is intended for roboticist and neuroscientist working in the areas
 
 
 ## Final Program (small changes possible)
+
+<table> </table>
+
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=0
  style='width:742.5pt;margin-left:-.25pt;border-collapse:collapse;mso-yfti-tbllook:
  1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>

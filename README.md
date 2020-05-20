@@ -70,7 +70,7 @@ This workshop is intended for roboticist and neuroscientist working in the areas
 
 ## Final Program (small changes possible)
 
-Check your closest timezone to not miss any talk!
+Check your closest timezone to not miss any talk! link to [pdf](https://brain-pil.github.io/icra2020/images/schedule_Brain-PIL2020.pdf)
 
 <img src="https://brain-pil.github.io/icra2020/images/brain-pil-schedule.jpg" style="display: block; margin: auto;" />
 

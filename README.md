@@ -69,8 +69,6 @@ This workshop is intended for roboticist and neuroscientist working in the areas
 
 
 ## Final Program (small changes possible)
-<div class=WordSection1 style='tab-interval:35.4pt'>
-
 <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=0
  style='width:742.5pt;margin-left:-.25pt;border-collapse:collapse;mso-yfti-tbllook:
  1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
@@ -792,9 +790,7 @@ class=SpellE>Alqallaf</span> and Gerardo <span class=SpellE>Aragon-Camarasa</spa
 </span><span style='font-family:"Arial",sans-serif'>A Pilot Investigation of
 Robotic Self-Awareness<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:2.0pt'><span style='font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
 
-</div>
 
 
 ##  Call for contributions 

@@ -70,11 +70,8 @@ This workshop is intended for roboticist and neuroscientist working in the areas
 
 ## Final Program (small changes possible)
 
-<table> </table>
 
-<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=0
- style='width:742.5pt;margin-left:-.25pt;border-collapse:collapse;mso-yfti-tbllook:
- 1184;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+<table>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:14.5pt'>
   <td width=66 style='width:49.5pt;border:solid windowtext 1.0pt;mso-border-alt:
   solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:14.5pt'>

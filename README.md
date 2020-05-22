@@ -87,7 +87,7 @@ Check your closest timezone to not miss any talk! link to [pdf](https://brain-pi
 
 6. Adrien Bennetot, Vicky Charisi and Natalia Díaz-Rodríguez. Should artificial agents ask for help in human-robot collaborative problem-solving?
 
-7. Zhicong Xian and Zhicong Xian. Making Sense of Touch: Unsupervised Shapelet Learning in Bag-of-words Sense
+7. Zhicong Xian, Tabish Chaudhary and Jürgen Bock. Making Sense of Touch: Unsupervised Shapelet Learning in Bag-of-words Sense
 
 8. Ali Alqallaf and Gerardo Aragon-Camarasa. A Pilot Investigation of Robotic Self-Awareness
 

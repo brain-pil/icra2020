@@ -133,7 +133,7 @@ This workshop is supported by the following IEEE-RAS Technical Committees:
 
 Furthermore, the event is supported by iNavigate (EU Horizon 2020 RISE-Network) grant agreement no: 873178, BWM research and SELFCEPTION project ([selfception.eu](www.selfception.eu)) EU H2020 grant agreement no. 741941.
 
-<img src="https://brain-pil.github.io/icra2020/images/sponsors.jpg" style="display: block; margin: auto;" />
+<img src="https://brain-pil.github.io/icra2020/images/sponsors.jpg" style="display: block; margin: auto;" /> 
 
 
 

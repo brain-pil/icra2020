@@ -2,7 +2,7 @@
 
 # Brain-PIL Workshop - virtual
 ## New advances in brain-inspired perception, interaction and learning
-### Full-day workshop May 31st at the[IEEE International Conference on Robotics and Automation (ICRA 2020)](https://www.icra2020.org/)
+### Full-day workshop May 31st at the [IEEE International Conference on Robotics and Automation (ICRA 2020)](https://www.icra2020.org/)
 
 >:warning: **The WS will be virtual**: Due to the COVID situation the workshop will be online along with the ICRA2020.
 

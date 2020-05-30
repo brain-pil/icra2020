@@ -4,7 +4,7 @@
 ## New advances in brain-inspired perception, interaction and learning
 ### Full-day workshop May 31st at the [IEEE International Conference on Robotics and Automation (ICRA 2020)](https://www.icra2020.org/)
 
->:warning: **The virtual workshop will be under ZOOM** The link has been sent. Send an email to the organizers if you have registered but you do not have the link.
+>:warning: **The virtual workshop will be under ZOOM** The link has been sent. Send an email to the organizers.  *if you have registered but you do not have  have the link, write the organizers*
 
 * Sreaming direct link (Sunday at 10.50): 
 * Streaming channel: https://www.youtube.com/channel/UCiNxLNgBEQmkKhXHHv2j-XA

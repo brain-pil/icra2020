@@ -17,23 +17,23 @@ Check your closest timezone to not miss any talk! link to [pdf](https://brain-pi
 <img src="https://brain-pil.github.io/icra2020/images/brain-pil-schedule.jpg" style="display: block; margin: auto;" />
 
 #### Contributions
-1. Alex Pitti, Mathias Quoy, Sofiane Boucenna and Catherine Lavandier. Complementary Working Memories using Free-Energy Optimization for Learning Features and Structure in Sequences
+1. Alex Pitti, Mathias Quoy, Sofiane Boucenna and Catherine Lavandier. Complementary Working Memories using Free-Energy Optimization for Learning Features and Structure in Sequences [pdf](https://brain-pil.github.io/icra2020/contributions/Brain-PIL_2020_contrib_1.pdf)
 
-2. Zhenduo Zhai and Ismail Akturk. Exploiting Refractory Period for Functional Multiplexing and Short-Term Memory in Spiking Neural Networks
+2. Zhenduo Zhai and Ismail Akturk. Exploiting Refractory Period for Functional Multiplexing and Short-Term Memory in Spiking Neural Networks [pdf](https://brain-pil.github.io/icra2020/contributions/Brain-PIL_2020_contrib_2.pdf)
 
-3. Mohamed Baioumy, Matías Mattamala and Nick Hawes. Variational Inference for Predictive and Reactive Controllers
+3. Mohamed Baioumy, Matías Mattamala and Nick Hawes. Variational Inference for Predictive and Reactive Controllers [pdf](https://brain-pil.github.io/icra2020/contributions/Brain-PIL_2020_contrib_3.pdf)
 
-4. Elnaz Soleimani, Abdelghani Chibani and Ghazaleh Khodabandehlou. Robust Semi-Supervised Adversarial Subject-Level Transfer Learning for Sensor-Based Human Activity Recognition
+4. Elnaz Soleimani, Abdelghani Chibani and Ghazaleh Khodabandehlou. Robust Semi-Supervised Adversarial Subject-Level Transfer Learning for Sensor-Based Human Activity Recognition [pdf](https://brain-pil.github.io/icra2020/contributions/Brain-PIL_2020_contrib_4.pdf)
 
-5. Cansu Sancaktar, Guillermo Oliver, Pablo Lanillos. Deep Active Inference for robot body perception and action
+5. Cansu Sancaktar, Guillermo Oliver, Pablo Lanillos. Deep Active Inference for robot body perception and action [pdf](https://brain-pil.github.io/icra2020/contributions/Brain-PIL_2020_contrib_5.pdf)
 
-6. Adrien Bennetot, Vicky Charisi and Natalia Díaz-Rodríguez. Should artificial agents ask for help in human-robot collaborative problem-solving?
+6. Adrien Bennetot, Vicky Charisi and Natalia Díaz-Rodríguez. Should artificial agents ask for help in human-robot collaborative problem-solving? [pdf](https://brain-pil.github.io/icra2020/contributions/Brain-PIL_2020_contrib_6.pdf)
 
-7. Zhicong Xian, Tabish Chaudhary and Jürgen Bock. Making Sense of Touch: Unsupervised Shapelet Learning in Bag-of-words Sense
+7. Zhicong Xian, Tabish Chaudhary and Jürgen Bock. Making Sense of Touch: Unsupervised Shapelet Learning in Bag-of-words Sense [pdf](https://brain-pil.github.io/icra2020/contributions/Brain-PIL_2020_contrib_7.pdf)
 
-8. Ali Alqallaf and Gerardo Aragon-Camarasa. A Pilot Investigation of Robotic Self-Awareness
+8. Ali Alqallaf and Gerardo Aragon-Camarasa. A Pilot Investigation of Robotic Self-Awareness [pdf](https://brain-pil.github.io/icra2020/contributions/Brain-PIL_2020_contrib_8.pdf)
 
-9. M. Yunus Seker, Erhan Oztop, Mete Tuluhan Akbulut, Yukie Nagai, Minoru Asada, and Emre Ugur. Towards a Mirror Neuron System via Dual Channel Conditional Neural Movement Primitives
+9. M. Yunus Seker, Erhan Oztop, Mete Tuluhan Akbulut, Yukie Nagai, Minoru Asada, and Emre Ugur. Towards a Mirror Neuron System via Dual Channel Conditional Neural Movement Primitives [pdf](https://brain-pil.github.io/icra2020/contributions/Brain-PIL_2020_contrib_9.pdf)
 
 ## Participate
 

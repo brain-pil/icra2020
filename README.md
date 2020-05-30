@@ -6,8 +6,8 @@
 
 >:warning: **The virtual workshop will be under ZOOM** The link has been sent. Send an email to the organizers if you have registered but you do not have the link.
 
-> Sreaming direct link (Sunday at 10.50): 
-> Streaming channel: https://www.youtube.com/channel/UCiNxLNgBEQmkKhXHHv2j-XA
+* Sreaming direct link (Sunday at 10.50): 
+* Streaming channel: https://www.youtube.com/channel/UCiNxLNgBEQmkKhXHHv2j-XA
 
 
 ## Final Program 

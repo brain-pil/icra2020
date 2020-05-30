@@ -29,7 +29,7 @@ Check your closest timezone to not miss any talk! link to [pdf](https://brain-pi
 
 8. Ali Alqallaf and Gerardo Aragon-Camarasa. A Pilot Investigation of Robotic Self-Awareness
 
-9. M. Yunus Seker, Erhan Oztop, Mete Tuluhan Akbulut, Minoru Asada, and Emre Ugur. Towards a Mirror Neuron System via Dual Channel Conditional Neural Movement Primitives
+9. M. Yunus Seker, Erhan Oztop, Mete Tuluhan Akbulut, Yukie Nagai, Minoru Asada, and Emre Ugur. Towards a Mirror Neuron System via Dual Channel Conditional Neural Movement Primitives
 
 ## Participate
 

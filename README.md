@@ -6,7 +6,7 @@
 
 >:warning: **The virtual workshop will be under ZOOM**  *if you have registered but you do not have the link contact the organizers*
 
-* Sreaming direct link (Sunday at 10.50am Paris time): 
+* Sreaming direct link (Sunday at 10.50am Paris time): http://www.youtube.com/watch?v=QMOTv2TXjzE
 * Streaming channel: https://www.youtube.com/channel/UCiNxLNgBEQmkKhXHHv2j-XA
 
 

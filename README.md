@@ -8,7 +8,7 @@
 
 * Sreaming direct link (Sunday at 10.50am Paris time): http://www.youtube.com/watch?v=QMOTv2TXjzE
 * Streaming channel: https://www.youtube.com/channel/UCiNxLNgBEQmkKhXHHv2j-XA
-* Poster session (join the paper that you like the most!!!!): [pdf](https://brain-pil.github.io/icra2020/contributions/BRAIN-PIL%202020%20POSTER%20SESSION.pdf)
+* Poster session (join video chat of the paper that you like the most!!!!): [poster session links](https://brain-pil.github.io/icra2020/contributions/BRAIN-PIL%202020%20POSTER%20SESSION.pdf)
 
 
 ## Final Program 
